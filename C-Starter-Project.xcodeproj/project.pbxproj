@@ -1,10 +1,10 @@
 // !$*UTF8*$!
 {
 	archiveVersion = 1;
-	classes = {
+	classes        = {
 	};
-	objectVersion = 46;
-	objects = {
+	objectVersion  = 46;
+	objects        = {
 
 /* Begin PBXBuildFile section */
 		AFAAA8581A804E2100A43345 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = AFAAA8571A804E2100A43345 /* main.c */; };
@@ -12,11 +12,11 @@
 
 /* Begin PBXCopyFilesBuildPhase section */
 		AFAAA8521A804E2100A43345 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
+			isa              = PBXCopyFilesBuildPhase;
+			buildActionMask  = 2147483647;
+			dstPath          = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
-			files = (
+			files            = (
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
